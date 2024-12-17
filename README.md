@@ -1,2 +1,3 @@
-# Formula
-My first attempt at a racing game
+# Formula :checkered_flag:
+
+A racing game build from scratch.
